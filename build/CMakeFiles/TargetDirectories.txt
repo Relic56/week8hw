@@ -1,0 +1,3 @@
+/home/option16/cv/week8hw/build/CMakeFiles/edit_cache.dir
+/home/option16/cv/week8hw/build/CMakeFiles/rebuild_cache.dir
+/home/option16/cv/week8hw/build/CMakeFiles/week8.dir
